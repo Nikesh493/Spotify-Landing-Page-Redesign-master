@@ -1,3 +1,13 @@
 # Spotify-Landing-Page-Redesign-master
 
-I developed a clone music app page using only HTML, CSS, and JavaScript, focusing on a clean and responsive design that mirrors the user experience of popular music streaming platforms. The page features a dynamic music player with play, pause, and skip functionalities, allowing users to interact with the interface seamlessly. By leveraging CSS for styling and animations, and JavaScript for interactivity, the project delivers a visually appealing and fully functional frontend without relying on any external libraries or frameworks.
+•	A clone music app landing page using HTML, CSS, and JavaScript.
+•	A clean and responsive design that replicates the user experience of popular music streaming platforms.
+•	Features a dynamic music player with:
+•	Play, pause, and skip functionalities.
+•	Seamless interaction for users with the interface.
+•	Utilized CSS for styling and animations to enhance visual appeal.
+•	Implemented JavaScript for interactivity, ensuring a fully functional front end.
+•	Built without relying on any external libraries or frameworks.
+
+
+![image](https://github.com/user-attachments/assets/ed7e858f-2b13-4d23-ac03-a0aa40d48fd5)
